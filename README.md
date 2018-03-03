@@ -9,4 +9,8 @@
 ## Slim Framework 
 
 * Tutoriais diversos - [Medium Leitura](https://medium.com/@fidelissauro)
+* Curso completo - [Youtube](https://www.youtube.com/channel/UCK-OjGFLEJg6Fz6uZ4AsdIg/playlists)
+
+## GraphQL
+
 
