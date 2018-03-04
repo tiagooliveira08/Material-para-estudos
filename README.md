@@ -17,10 +17,10 @@
 
 ## PHP
 
-Curso PHP do zero ao profissional B7WEB - [Google drive](https://drive.google.com/drive/folders/0B9Oh95vNc8dRVUhhLWp0QXZZeFE)
+* Curso PHP do zero ao profissional B7WEB - [Google drive](https://drive.google.com/drive/folders/0B9Oh95vNc8dRVUhhLWp0QXZZeFE)
 
 ## Desenvolvimento Web
 
-Curso desenvolvimento web completo - [Minha teca](http://minhateca.com.br/Cognitionis/Cursos/Curso+Desenvolvedor+Web)
+* Curso desenvolvimento web completo - [Minha teca](http://minhateca.com.br/Cognitionis/Cursos/Curso+Desenvolvedor+Web)
 
 
