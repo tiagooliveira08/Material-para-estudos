@@ -11,6 +11,8 @@
 * Tutoriais diversos - [Medium Leitura](https://medium.com/@fidelissauro)
 * Curso completo - [Youtube](https://www.youtube.com/channel/UCK-OjGFLEJg6Fz6uZ4AsdIg/playlists)
 
-## GraphQL
+## Variados
+
+* Como iniciar como Front-end [Medium leitura - inglês](https://medium.freecodecamp.org/how-to-get-hired-as-a-junior-web-developer-its-hard-but-you-can-do-it-f680c20f0285)
 
 
