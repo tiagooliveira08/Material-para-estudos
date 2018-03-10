@@ -23,7 +23,7 @@
 
 * Curso desenvolvimento web completo - [Minha teca](http://minhateca.com.br/Cognitionis/Cursos/Curso+Desenvolvedor+Web)
 
-##CSS3 
+## CSS3 
 * Desenhando formas com CSS3 - [Artigo-helabs](https://helabs.com/artigos/2014/11/14/o-poder-do-css-3-desenhando-formas/)
 
 
